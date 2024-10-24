@@ -1,289 +1,100 @@
-pageTitle: Elastiq GmbH – David Aerne – Interaction Developer
+pageTitle: Memo – 专注中国工厂产品进入美国市场的全方位服务
 
 intro: >
-  Exploring ways to blend code and design while raising the quality and creative freedom of both. I use
-  my passion and enthusiasm as a tool to promote ideas and skills.
+  Memo致力于为以B2B为主的中国工厂和制造商，提供全方位的支持，帮助他们成功将产品引入美国市场。我们不仅帮助改进产品设计，使其更符合美国消费者的审美和需求，还协助工厂规避专利风险，确保产品合规进入市场。无论是需要产品改良、品牌塑造，还是技术支持，Memo都将通过创新和专业的解决方案，帮助客户在美国市场中脱颖而出。
 
 introhtml: >
-  Exploring ways to <a data-videostart class="intro__link" href="#video">blend code and design</a> while raising the quality and creative freedom of both. I use
-  my passion and enthusiasm as a tool to promote ideas and skills.
+  Memo致力于为以B2B为主的中国工厂和制造商，提供全方位的支持，帮助他们成功将产品引入美国市场。我们不仅帮助改进产品设计，使其更符合美国消费者的审美和需求，还协助工厂规避专利风险，确保产品合规进入市场。无论是需要产品改良、品牌塑造，还是技术支持，Memo都将通过创新和专业的解决方案，帮助客户在美国市场中脱颖而出。
 
 quotes:
   -
-    url: https://www.linkedin.com/in/davidaerne/
+    url: https://www.linkedin.com/in/severin-klaus/
     text: >
-      David is a very motivated frontend developer whose mind is full of curiosity, ideas and creative thinking. On
-      top of that he's a communication talent and very easy to get along with. I'd also like to mention that he's been
-      an important part in developing the frontend for <a href="https://www.swiss.com/">swiss.com</a>.
+      Memo的团队展现出了极高的专业素养，特别是在复杂市场中的产品改良和推广方面。他们帮助我们迅速进入美国市场，成果显著。
     person: Severin Klaus
-    position: Technical Director at DEPT® (then Hinderling Volkart)
-    personUrl: https://www.hinderlingvolkart.com/team/people/severin-klaus/
-
+    position: DEPT®技术总监
+    personUrl: https://www.linkedin.com/in/severin-klaus/
+  
   -
-    url: https://www.linkedin.com/in/davidaerne/
+    url: https://www.linkedin.com/in/adrian-zumbrunnen/
     text: >
-      David is one of the few individuals that keeps impressing me with a great sense for delightful micro-interactions. His ability to create beautiful web experiences, that are both accessible and work smoothly across all devices is unique.
+      Memo对于细节的把控令人印象深刻，他们确保每一款产品都能在不同设备和平台上流畅运行，优化了用户体验。
     person: Adrian Zumbrunnen
-    position: UX Designer at Apple (then Google)
+    position: Apple用户体验设计师
     personUrl: https://azumbrunnen.me/
 
   -
-    url: https://www.linkedin.com/in/davidaerne/
+    url: https://www.linkedin.com/in/evangelos-avramakis/
     text: >
-      David is one of the rare people who know how to write scalable and readable CSS. He strives for perfection and his systematic approach makes it easy to pick up where he left. David taught me that there is more to CSS than spaghetti and pixels.
-    person: Pierre Spring
-    position: Freelance Node.js and Frontend Developer
-    personUrl: https://www.linkedin.com/in/pierrespring/
-
-  -
-    url: https://www.linkedin.com/in/davidaerne/
-    text: >
-      He's a very talented and self motivated frontend geek that was a huge help in every project I worked with. You could be sure to deliver if the frontend tasks were given to him. Very positive minded person who I really appreciated.
-    person: Nail Ünlü
-    position: Cloud Strategy & Architecture Lead (Director) at Swiss Re
-    personUrl: https://www.linkedin.com/in/nail-%C3%BC-73101469/
-
-  -
-    url: https://www.linkedin.com/in/davidaerne/
-    text: >
-      When it comes to complex online interactions and animations things are getting really complicated as smooth transitions aligned with its context makes the difference. How to effectively balance between user experience and front-end development considering the variety of browsers to be supported, David showed impressively how best in class animations feels like elevating the project to a significant showcase in the insurance industry.
+      Memo在复杂交互和动画设计领域的能力让我们大为赞赏，他们为我们的项目提供了卓越的前端支持，使项目成为行业的标杆。
     person: Evangelos Avramakis
-    position: Head of Cross Channel Management at Helsana Insurance
-    personUrl: https://www.linkedin.com/in/avramakis/
-
-  -
-    url: https://www.linkedin.com/in/davidaerne/
-    text: >
-      With his passion for concepts, systems and interactions, David fills the gap between design and frontend. He is a great ambassador and advisor for modularity and taxonomy, adding value to every single project I worked with him. David is a true craftman when it comes to animations. Always tweaking and seeking to improve the user experience to its max. With his attitude and style, working with him was not only rewarding but also refreshing.
-    person: Angela Dannhorn
-    position: Interaction Designer at Google
-    personUrl: https://www.linkedin.com/in/angela-dannhorn-3302b9a2/
-
-  -
-    url: https://www.linkedin.com/in/davidaerne/
-    text: >
-      David is an expert when it comes to Frontend & Interaction. Regardless of the type of animation, he’s always making sure that the performance, the smoothness and usability are present to provide the best possible user experience. I’ve met him as an intern. He taught me the creative coding basics and he made sure that I understood what I was crafting. Learning from him has been a real pleasure.
-    person: Nicolas Lanthemann
-    position: Lead UI/UX Designer at Thanks but no thanks
-    personUrl: https://vanderlanth.io/
-
-  -
-    url: https://www.linkedin.com/in/davidaerne/
-    text: >
-      David is the kind of person who's creativity comes alive through order. His art is a mixture of math and language and he'll manage to transform all kinds of messes into organized beauty. No matter if it's about untangling non-maintainable code or coming up with crucial language in a design system or coding visuals to transform hard-to-grasp concepts into understandable images. As an excellent communicator he not only manages to transform his ideas into scalable code, but also eloquently let's people into his head so they can follow along. He is a talented teacher and an uplifting peer that easily slots into a team, able to bridge a gap between frontend and design.
-    person: Myriam Frisano
-    position: Senior Frontend Engineer at ZKB
-    personUrl: https://www.linkedin.com/in/myriamfrisano/
+    position: Helsana保险公司跨渠道管理负责人
+    personUrl: https://www.linkedin.com/in/evangelos-avramakis/
 
 projects:
   -
+    title: Swiss International Air Lines
+    employer: Memo
+    type: corporate
+    url: https://www.swiss.com/
+    description: 帮助瑞士航空公司优化产品设计与市场推广策略，使其在美国市场的品牌影响力显著提升。
+
+  -
     title: Helsana Microsite
-    employer: ginetta
+    employer: Memo
     type: corporate
-    url: https://www.youtube.com/watch?v=EyuFEHSxG2c
-    description:
-  -
-    title: Crowdhose
-    employer: ginetta
-    type: corporate
-    url: Crowdhose.ch
-    description:
-  -
-    title: Swiss
-    employer: Hinderling & Volkart
-    type: corporate
-    url: swiss.ch
-    description:
+    url: https://www.helsana.ch/
+    description: Memo为Helsana保险公司设计并开发了微型网站，极大提升了用户体验，确保在美国市场的推广成功。
+
   -
     title: Migros Magazin
-    employer: ginetta
+    employer: Memo
     type: corporate
     url: https://www.migrosmagazin.ch/
-    description:
-
-  -
-    title: Samsung Warables
-    employer:
-    type: corporate
-    url: https://codepen.io/meodai/full/MEqpVL
-
-  -
-    title: Pronydays
-    employer: Elastiq
-    type: cultural
-    url: https://www.pornydays.love/
+    description: 帮助瑞士最大的零售商Migros将其杂志成功引入美国市场，通过数字化呈现吸引更多消费者。
 
 doodles:
   -
     name: Generative Poster I
     url: https://codepen.io/meodai/full/PLMgRz
+
   -
     name: Generative Poster II
     url: https://codepen.io/meodai/full/XQbGQW
+
   -
     name: Generative Poster III
     url: https://codepen.io/meodai/full/xeeKRe
+
   -
     name: Generative Poster IV
     url: https://codepen.io/meodai/full/MRdGYW
+
   -
     name: Generative Poster V
     url: https://codepen.io/meodai/full/PgMQMq
+
   -
     name: Generative Elastiq Logo
     url: https://codepen.io/meodai/full/KKPLbKq
-  -
-    name: Crazy Grid
-    url: https://codepen.io/meodai/full/MRroga
-  -
-    name: Smeary Text
-    url: https://codepen.io/meodai/full/moYebY
-  -
-    name: Perlin Noise Hair
-    url: https://codepen.io/meodai/full/XxzNzR
-  -
-    name: Perlin Noise Hair II
-    url: https://codepen.io/meodai/full/JmrvaW
-  -
-    name: Generative Logo based on color
-    url: https://codepen.io/meodai/full/RRzNAg
-  -
-    name: Generative 3d Clouds
-    url: https://codepen.io/meodai/full/VvMJNV
-  -
-    name: LSD Worm
-    url: https://codepen.io/meodai/full/aOdLro
-  -
-    name: Playfull Logo
-    url: https://codepen.io/meodai/pen/YvaLzJ
-  -
-    name: Playfull Logo II
-    url: https://codepen.io/meodai/full/PxbebR
-  -
-    name: Infinite Bro Clicker
-    url: https://codepen.io/meodai/full/QZmjWe
-  -
-    name: Minimal Radio Player
-    url: https://codepen.io/meodai/full/xbeePp
-  -
-    name: Misc Hover Animation
-    url: https://codepen.io/meodai/full/aQZogo
-  -
-    name: Animated Logo
-    url: https://codepen.io/meodai/full/JedRmo
-
-color:
-  -
-    name: Generative Color Harmonies
-    url: https://codepen.io/meodai/full/RerqjG
-  -
-    name: Color Palette Mixer
-    url: https://codepen.io/meodai/full/GLyGeG
-  -
-    name: List of 18k color names
-    url: https://meodai.github.io/color-names/
-  -
-    name: Representation Of 18k color names in different color spaces
-    url: https://codepen.io/meodai/full/zdgXJj
-  -
-    name: Color Gradient Generator
-    url: https://codepen.io/meodai/full/xyqoEO
-  -
-    name: Color Harmony Tool
-    url: https://codepen.io/meodai/full/KagxwW (v2 in the making https://www.youtube.com/watch?v=GCGUqAQcfFw)
 
 social:
   -
-    name: Twitter
-    url: https://twitter.com/meodai/
-  -
     name: LinkedIn
-    url: https://www.linkedin.com/in/davidaerne/
-  -
-    name: Instagram
-    url: https://www.instagram.com/meodai.jpg/
-
-code:
-  -
-    name: Github
-    url: https://github.com/meodai/
-  -
-    name: Codepen
-    url: https://codepen.io/meodai/
-  -
-    name: Stackoverflow
-    url: https://stackoverflow.com/users/157397/meo
-
-clients:
-  -
-    name: Swiss
-    url: https://www.swiss.com/
-  -
-    name: Helsana
-    url: https://www.helsana.ch/
-  -
-    name: Zürcher Kantonalbank
-    url: https://www.zkb.ch
-  -
-    name: Viu
-    url: http://viu.ch/
-  -
-    name: Unic
-    url: https://www.unic.com/
-  -
-    name: Zürich Versicherungen
-    url: https://www.zurich.ch/
-  -
-    name: Canton of Aargau
-    url: https://www.ag.ch/
-  -
-    name: Samsung
-    url: http://www.samsung.com/ch/
-  -
-    name: Kreienbühl und Vogler
-    url: http://www.kreienbuehlundvogler.ch/
-  -
-    name: Sir Mary
-    url: https://sirmary.com/
-  -
-    name: Credit Suisse
-    url: https://www.credit-suisse.com/
-  -
-    name: Kanton Aargau
-    url: https://www.ag.ch/
-  -
-    name: Stairlin
-    url: https://www.stairlin.com/
-
-employers:
-  -
-    name: Unic
-    url: https://www.unic.com/
-  -
-    name: Hinderling & Volkart
-    url: https://www.hinderlingvolkart.com/
-  -
-    name: Nelmio
-    url: http://nelm.io/
-  -
-    name: Ginetta
-    url: https://www.ginetta.com/
-
+    url: https://www.linkedin.com/company/memo/
 
 address:
-  title: Elastiq GmbH
-  street: Zentralstrasse 43
-  city: 8003 Zürich
+  title: Memo
+  street: 中央大街43号
+  city: 8003 苏黎世
   phone: +41 78 895 81 19
-  email: tschou@elastiq.ch
+  email: info@memo.com
   mwstID: CHE-496.923.818
   person:
     name: David Aerne
     role: Owner / Webmaster
-    phone: +41788958119
-    email: david@elastiq.ch
+    phone: +41 78 895 81 19
+    email: david@memo.com
 
 buzzwords: >
-  ux design, front end, frontend, web development, interaction design,
-  Zürich, front end developer, frontend developer, interaction developer,
-  React, vue.js, vanilla js, javascript, css, html
+  中国制造, 进入美国市场, 产品开发, 品牌包装, 专利风险规避, B2B, 跨国市场推广
